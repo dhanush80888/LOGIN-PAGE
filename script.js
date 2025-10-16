@@ -6,7 +6,7 @@ document.getElementById("loginForm").addEventListener("submit", function (e) {
   const message = document.getElementById("message");
 
   // Demo credentials
-  const validUser = "admin";
+  const validUser = "dhanush8088";
   const validPass = "12345";
 
   if (username === validUser && password === validPass) {
